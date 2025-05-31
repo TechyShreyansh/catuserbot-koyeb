@@ -22,6 +22,10 @@ A simple Telegram userbot based on Telethon .
 
 - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TgCatUB/nekopack)
 
+### Koyeb Deploy
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=stringgenbot&repository=TechyShreyansh%2Fcatuserbot-koyeb&branch=master)
+
 ### Self host
 
 - [**Check Docs**](https://tgcatub.gitbook.io/catuserbot/installation/hosting)
