@@ -32,13 +32,13 @@ A simple Telegram userbot based on Telethon .
 - APP_ID = ```Add Api Id From Hwre ``` [Api-Id](my.telegram.org)
 - BADCAT = ```False``` #Choice is Your if You Want To Enavble Custom Plugin
 - DATABASE_URL = ```Generate Postgress Sql database From Here``` [Database Url](https://neon.com/)
-EXTERNAL_REPO = ```https://github.com/TgCatUB/CatPlugins```
-EXTERNAL_REPOBRANCH = ```main```
-PORT = ```8080```
-STRING_SESSION= ```Generate String Session From Here``` [String-Session](https://github.com/TechyShreyansh/catuserbot-koyeb/blob/master/stringsetup.py)
-TG_BOT_TOKEN = ```Get From @BotFather```
-UPSTREAM_REPO= ```https://github.com/TgCatUB/catuserbot```
-UPSTREAM_REPO_BRANCH =  ```master```
+- EXTERNAL_REPO = ```https://github.com/TgCatUB/CatPlugins```
+- EXTERNAL_REPOBRANCH = ```main```
+- PORT = ```8080```
+- STRING_SESSION= ```Generate String Session From Here``` [String-Session](https://github.com/TechyShreyansh/catuserbot-koyeb/blob/master/stringsetup.py)
+- TG_BOT_TOKEN = ```Get From @BotFather```
+- UPSTREAM_REPO= ```https://github.com/TgCatUB/catuserbot```
+- UPSTREAM_REPO_BRANCH =  ```master```
 
 
 ### Self host
