@@ -11,7 +11,7 @@
 
 import os
 
-ENV = bool(os.environ.get("ENV", False))
+ENV = bool(os.environ.get("ENV", True)) #Make True For Koyeb & Render
 
 if ENV:
     from sample_config import Config  # noqa
