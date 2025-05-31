@@ -1,4 +1,4 @@
-""" Config values will be loaded from here"""
+"""Config values will be loaded from here"""
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~# CatUserBot #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 # Copyright (C) 2020-2023 by TgCatUB@Github.
@@ -11,7 +11,7 @@
 
 import os
 
-ENV = bool(os.environ.get("ENV", True)) #Make True For Koyeb & Render
+ENV = bool(os.environ.get("ENV", True))  # Make True For Koyeb & Render
 
 if ENV:
     from sample_config import Config  # noqa
