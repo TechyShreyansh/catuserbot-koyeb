@@ -30,7 +30,7 @@ Pillow==9.5.0
 pre-commit
 prettytable
 psutil
-psycopg2
+psycopg2-binary>=2.9
 pyfiglet
 PyGithub
 pygments
